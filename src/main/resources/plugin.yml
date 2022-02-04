@@ -1,0 +1,8 @@
+name: Nix
+version: '${project.version}'
+main: tv.twitch.andimate.nix.Nix
+api-version: 1.18
+prefix: Nix
+authors: [ Andimate ]
+description: Nix.
+website: https://www.twitch.tv/andimate
